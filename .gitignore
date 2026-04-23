@@ -12,6 +12,7 @@ build/
 .vscode/
 .vs/
 *.iml
+eda/
 
 # OS
 Thumbs.db
